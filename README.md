@@ -2,3 +2,5 @@
 в управляющую компанию через портал mail.ru и сохранения их значений в базе данных.
 
 JavaFX, JDBC, IMAP
+
+-https://github.com/alexanderkolchenko/send-home-meters/tree/master/src/main/java/com/example/enumerators
