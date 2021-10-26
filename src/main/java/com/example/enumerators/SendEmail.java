@@ -56,7 +56,7 @@ public class SendEmail extends IMAPFolder {
 
         //login - логин учетной записи
         //password - пароль для внешних приложений, генерируется в настройках безопасности mail.ru
-        tr.connect("17307@bk.ru", "8S7wLefE4AhZ5qda6Qpq");
+        tr.connect("login", "password");
         tr.sendMessage(message, message.getAllRecipients());
         tr.close();
     }
